@@ -1,4 +1,4 @@
-# Hello there I am Viral Bhadeshiya👋
+# Hello there I am Angelo Benavides👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
@@ -69,19 +69,13 @@
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank"><img align="center"
+  <a href="https://[www.linkedin.com/in/viral-bhadeshiya](https://www.linkedin.com/in/angelo-benavides-4421b126a/?trk=public-profile-join-page)/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/viralbhadeshiya/" target="blank"><img align="center"
+  <a href="[https://www.instagram.com/viralbhadeshiya/](https://www.instagram.com/angel0benavides?igsh=c2YzY3J6NTU1c2tj)" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/viralrbhadeshiya" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
-      alt="Viral Bhadeshiya" height="30" width="auto" /></a>
-</p>
+
 
 -----
 <p align="center">
