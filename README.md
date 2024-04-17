@@ -76,6 +76,9 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
 
+## Pags with 
+
+<a href=" https://www.codewars.com/users/Alexnader123_A/badges/large" /></a>
 
 -----
 <p align="center">
