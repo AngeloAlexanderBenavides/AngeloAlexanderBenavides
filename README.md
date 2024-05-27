@@ -27,10 +27,6 @@
    <a>
     <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
   </a>
-  &emsp;
-  <a>
-    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
-  </a>
 </p>
 
 
@@ -43,6 +39,7 @@
   <a href="[https://www.instagram.com/viralbhadeshiya/](https://www.instagram.com/angel0benavides?igsh=c2YzY3J6NTU1c2tj)" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
+</p>
 
 ## Pags with 
 
