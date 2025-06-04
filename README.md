@@ -1,56 +1,60 @@
-# Hello there I am Angelo Benavides👋
+# 👋 ¡Hola! Soy Angelo Benavides
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+🎓 Estudiante de Ingeniería en Computación en la UPEC  
+💻 Apasionado por el desarrollo backend, IA y crear soluciones que marquen la diferencia  
+🌱 Actualmente aprendiendo **FastAPI**, **JWT**, **Docker** y trabajando en microservicios con **AWS**  
+📲 Desarrollando apps con **Flutter**, **Firebase** y visión computacional con **Python + TensorFlow/PyTorch**  
+🎯 Próximo reto: Participar en el **IEEXtreme** y crecer en el mundo de los algoritmos y la competencia
 
+---
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+## 🚀 Proyectos destacados
 
-## My tech stack
+- **Agrovet Bot** – App móvil inteligente que detecta enfermedades en plantas/animales y ofrece asistencia por texto.  
+  Tecnologías: Flutter, Python, Firebase, OpenAI API, Google Cloud.
 
-<p align="left"> 
-   <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
-  </a>
-  &emsp; 
-  <a> 
-    <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
-  </a>
-</p>
+- **Gestor de Proyectos de Marketing** – Web app hecha con JSP + Bootstrap para organizar campañas y equipos de trabajo.
 
+- **Neurovida** – Página web orientada a servicios terapéuticos, como parte de mi iniciativa freelance en desarrollo web.
 
-## Connect with me:
-<p align="left">
-  <a href="https://[www.linkedin.com/in/viral-bhadeshiya](https://www.linkedin.com/in/angelo-benavides-4421b126a/?trk=public-profile-join-page)/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  
-  <a href="[https://www.instagram.com/viralbhadeshiya/](https://www.instagram.com/angel0benavides?igsh=c2YzY3J6NTU1c2tj)" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-</p>
+- **Tareas Dirigidas** – Sitio con backend personalizado para ayudar a estudiantes con contenido educativo.
 
-## Pags with 
+---
 
-<a href=" https://www.codewars.com/users/Alexnader123_A/badges/large" /></a>
+## 🛠️ Tecnologías & Herramientas
 
------
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=viralbhadeshiya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=viralbhadeshiya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
- </p>
+**Lenguajes**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
+**Frameworks & Tools**  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+
+---
+
+## 🎧 Sobre mí
+
+Fuera del código, me encanta la música 🎵 – desde el rock de **Queen**, pasando por la ópera con **Pavarotti**, hasta el reggaetón con **Bad Bunny**.  
+Me gusta trabajar en proyectos útiles, aprender por mi cuenta y mantenerme enfocado, aunque también disfruto conectar con gente que comparte mis intereses.
+
+---
+
+## 📫 ¿Hablamos?
+
+Estoy abierto a colaboraciones, ideas locas o simplemente una buena charla geek.  
+Puedes encontrarme aquí:
+
+- 💼 [LinkedIn](https://www.linkedin.com/) *(pon tu link real aquí)*  
+- 🌐 [Mi portafolio](https://tusitio.com/) *(si tienes uno, lo incluimos luego)*  
+- 📧 Email: *tu correo aquí*
+
+---
+
+> *"Si no encuentras una solución, invéntala con código."* – Angelo Benavides
