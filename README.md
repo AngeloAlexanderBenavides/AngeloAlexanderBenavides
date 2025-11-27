@@ -68,7 +68,7 @@ Estudiante de **Computación** en la **Universidad Politécnica Estatal del Carc
   <img src="https://github-readme-stats.vercel.app/api?username=AngeloAlexanderBenavides&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloAlexanderBenavides&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="160" alt="languages graph" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngeloAlexanderBenavides&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
 </div>
 
 ---
